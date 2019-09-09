@@ -1,3 +1,3 @@
 # hmwrk Nr1
-home work <br>
-no idea what to write here
+<br>
+It's my first HTML page!!!
